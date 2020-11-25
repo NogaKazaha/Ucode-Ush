@@ -48,3 +48,12 @@ descriptive error message is displayed.
 - tilde expansion ~ with the following tilde-prefixes: ~ , ~/dir_name , ~username/dir_name , ~+/dir_name , ~-/dir_name ;
 - the basic form of parameter expansion ${parameter} ;
 - command substitution `command` and $(command) .
+
+## Authors
+<p align="center">People that made this program:</p>
+    <p align="center"><a href="https://github.com/NogaKazaha" target="_blank"><img src="https://github.com/NogaKazaha/NogaKazaha/blob/master/img/Photos/osavich.jpg" height="100px"></a></p>
+    <h2 align="center">osavich</h2>
+    <p align="center"><a href="https://github.com/VitaliiSvietkov" target="_blank"><img src="https://github.com/NogaKazaha/NogaKazaha/blob/master/img/Photos/Vitalii.jpg" height="100px"></a></p>
+    <h2 align="center">vsvietkov</h2>
+        <p align="center"><a href="https://github.com/VitaliiSvietkov" target="_blank"><img src="https://github.com/NogaKazaha/NogaKazaha/blob/master/img/Photos/iantipin.jpg" height="100px"></a></p>
+    <h2 align="center">vsvietkov</h2>
