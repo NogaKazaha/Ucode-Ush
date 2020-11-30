@@ -9,15 +9,8 @@
         <a href="https://lms.ucode.world/users/plitovka/" target="_blank">
             <img src="https://github.com/NogaKazaha/NogaKazaha/blob/master/img/Header/lms.png" height="100px">
         </a>
-        <h2 align="center">UNIX utilities can be very useful. This is my repo for our implementation of UNIX utility "ls".</h2>
     </p>
 </head>
-
-## Got skills
-
-Critical Thinking, Problem Solving, Analysis, Reasoning & Argumentation, Creativity, Agility & Adaptability, Responsibility, Self-Management,  Communication, Teamwork, UNIX, Git, Algorithms, C, Procedural Programming, Leadership
-
-<hr>
 
 ## Building the program
 
